@@ -16,7 +16,7 @@ while y%z != 0:
 	temp = y%z
 	y = z
 	z = temp 
-'''while문 실행 결과, a와 b의 최대공약수와 c의 최대공약수 구하여 z에 대입.'''
+#while문 실행 결과, a와 b의 최대공약수와 c의 최대공약수 구하여 z에 대입.
 
 tem=c
 tlcm=ablcm
