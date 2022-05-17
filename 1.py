@@ -1,6 +1,7 @@
-a,b,c = input().split() 
-a,b,c = int(a), int(b), int(c) 
-x,y,z = a,b,c 
+print("두 수를 입력하시오.")
+a,b = input().split() 
+a,b = int(a), int(b)
+x,y = a,b
 
 while x%y!= 0:
 	temp = x%y
