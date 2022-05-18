@@ -12,6 +12,6 @@ while x%y!= 0:
 ablcm =a*b//y 
 #a와 b의 곱을 a와 b의 최대공약수로 나누어 a와 b의 최소공배수 구함.
 
-print(lcm)
+print(ablcm)
 
 #202101236 컴퓨터공학부 노연우
