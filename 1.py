@@ -12,7 +12,7 @@ while x%y!= 0:
 ablcm =a*b//y 
 #a와 b의 곱을 a와 b의 최대공약수로 나누어 a와 b의 최소공배수를 구함.
 
-print(ablcm) #최소 공배수 출력.
+print(ablcm) #최소 공배수 출력
 
 
 
