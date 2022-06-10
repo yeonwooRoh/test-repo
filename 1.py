@@ -27,4 +27,5 @@ for filename in list:
   
   croppedImage=image1.crop((10,10,100,100))
   
+  croppedImage.show()
   
