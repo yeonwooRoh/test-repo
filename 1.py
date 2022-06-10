@@ -17,3 +17,10 @@ for filename in list:
   
   img = Image.open(file)
   img.save(os.path.join(resultPate, filename), 'JPEG', quality=85)
+
+  from PIL import Image
+  
+  image1 = Image.open('A.PNG')
+  image1.show()
+  
+  
