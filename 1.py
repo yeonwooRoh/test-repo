@@ -10,3 +10,5 @@ if not os.path.exists(resultPath):
 list = os.listdir(path)
 
 list.sort()
+
+for filename in list:
