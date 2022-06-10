@@ -23,4 +23,6 @@ for filename in list:
   image1 = Image.open('A.PNG')
   image1.show()
   
+  print(image1.size)
+  
   
