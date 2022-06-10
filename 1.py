@@ -31,3 +31,5 @@ for filename in list:
   
   print("잘려진 사진 크기:",croppedImage.size)
   
+  crroppedImage.save('croppedImage.PNG')
+  
