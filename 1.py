@@ -6,3 +6,5 @@ resultPath = 'C:/Users/HS/Desktop/사진_크기변경/'
 
 if not os.path.exists(resultPath):
   os.mkdir(resultPath)
+  
+list = os.listdir(path)
