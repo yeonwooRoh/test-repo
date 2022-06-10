@@ -12,3 +12,5 @@ list = os.listdir(path)
 list.sort()
 
 for filename in list:
+  
+  file = path + filename
