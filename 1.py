@@ -8,3 +8,5 @@ if not os.path.exists(resultPath):
   os.mkdir(resultPath)
   
 list = os.listdir(path)
+
+list.sort()
