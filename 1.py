@@ -25,4 +25,6 @@ for filename in list:
   
   print(image1.size)
   
+  croppedImage=image1.crop((10,10,100,100))
+  
   
