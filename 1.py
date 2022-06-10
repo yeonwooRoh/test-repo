@@ -14,3 +14,5 @@ list.sort()
 for filename in list:
   
   file = path + filename
+  
+  img = Image.open(file)
