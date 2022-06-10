@@ -29,3 +29,5 @@ for filename in list:
   
   croppedImage.show()
   
+  print("잘려진 사진 크기:",croppedImage.size)
+  
