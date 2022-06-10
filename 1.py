@@ -16,3 +16,4 @@ for filename in list:
   file = path + filename
   
   img = Image.open(file)
+  img.save(os.path.join(resultPate, filename), 'JPEG', quality=85(
